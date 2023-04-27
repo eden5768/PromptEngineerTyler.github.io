@@ -1,6 +1,6 @@
 # Concerns with AI
 
-<img src="media/image1.png" style="width:6.5in;height:3.31111in" />
+<img src="concern.jpg" style="width:6.5in;height:3.31111in" />
 
 Artificial intelligence (AI) has been making significant progress over
 the past few years, and it's already being used in a wide range of

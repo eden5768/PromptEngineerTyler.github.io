@@ -54,5 +54,5 @@ to sharing my insights and experiences with you through this blog.
 
 * [What is prompt engineering](/promptdoc.md)
 * [AI Art](/AIARTdoc.md) 
-* Chat GPT
+* [Chat GPT](/ChatGPT.md)
 * concerns about AI

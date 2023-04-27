@@ -1,6 +1,6 @@
 # AI Art: An Introduction to What it Can Do and Its Benefits
 
-<img src="media/image1.png" style="width:5.28472in;height:2.97266in" />
+<img src="AIART.jpg" style="width:5.28472in;height:2.97266in" />
 
 Artificial Intelligence (AI) is transforming the world we live in, and
 it is no surprise that it is also making waves in the art world. AI art

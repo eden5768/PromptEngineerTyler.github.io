@@ -70,4 +70,4 @@ created.
 
 <img src="338final.jpg" style="width:1.47917in;height:1.47917in" /><img src="bird.jpg" style="width:1.47917in;height:1.47917in"  /><img src="EGR314-team-302-logo.jpg" style="width:1.47222in;height:1.47222in" /><img src="Erikalogo2.jpg" style="width:1.47917in;height:1.47917in" />
 
-...   |   [Home](/index.md)   |   [Next](/)
+[Back](/promptdoc.md)   |   [Home](/index.md)   |   [Next](/)

@@ -75,4 +75,4 @@ personalized recommendations, increased efficiency, and 24/7
 availability. As AI continues to advance, we can expect to see even more
 impressive applications of conversational AI like ChatGPT in the future.
 
-[Back](/AIARTdoc.md)   |   [Home](/index.md)   |   [Next](/)
+[Back](/AIARTdoc.md)   |   [Home](/index.md)   |   [Next](/ConcernswithAI.md)

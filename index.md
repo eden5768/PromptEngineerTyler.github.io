@@ -53,6 +53,6 @@ to sharing my insights and experiences with you through this blog.
 ## Table of contents
 
 * [What is prompt engineering](/promptdoc.md)
-* AI Art
+* [AI Art](/AIARTdoc.md) 
 * Chat GPT
 * concerns about AI

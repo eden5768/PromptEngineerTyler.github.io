@@ -47,3 +47,5 @@ important to continue to monitor the development of AI and address these
 concerns as they arise. Ultimately, AI is a tool that can be used for
 both good and bad, and it is up to us to ensure that it is used in a
 responsible and ethical manner.
+
+[Back](/AIARTdoc.md)   |   [Home](/index.md)   |   ...

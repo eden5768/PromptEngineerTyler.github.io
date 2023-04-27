@@ -1,6 +1,6 @@
 # What is prompt Engineering
 
-<img src="media/image1.png" style="width:5.40278in;height:2.70139in" alt="A picture containing diagram Description automatically generated" />
+<img src="prompt.png" style="width:5.40278in;height:2.70139in"  />
 
 Prompt engineering is an increasingly important field in the tech
 industry. As artificial intelligence and machine learning continue to

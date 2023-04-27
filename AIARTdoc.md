@@ -68,4 +68,4 @@ Example AI art
 The following are example AI art results for different logos that I
 created.
 
-<img src="338final.jpg" style="width:1.47917in;height:1.47917in" /><img src="bird.jpg" style="width:1.47917in;height:1.47917in"  /><img src="media/image4.jpeg" style="width:1.47222in;height:1.47222in" /><img src="media/image5.jpeg" style="width:1.47917in;height:1.47917in" />
+<img src="338final.jpg" style="width:1.47917in;height:1.47917in" /><img src="bird.jpg" style="width:1.47917in;height:1.47917in"  /><img src="EGR314-team-302-logo.jpg" style="width:1.47222in;height:1.47222in" /><img src="media/image5.jpeg" style="width:1.47917in;height:1.47917in" />

@@ -1,6 +1,6 @@
 # ChatGPT: The Power of Conversational AI
 
-<img src="media/image1.jpg" style="width:6.5in;height:3.65625in" alt="A picture containing text Description automatically generated" />
+<img src="chat.jpg" style="width:6.5in;height:3.65625in" alt="A picture containing text Description automatically generated" />
 
 Artificial Intelligence (AI) has been making leaps and bounds in the
 last decade, and one of its most impressive applications has been in the

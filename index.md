@@ -1,6 +1,6 @@
 # About me
 
-<img src="media/image1.jpg" style="width:1.38194in;height:1.63943in" alt="A picture containing person, wall, indoor, smiling Description automatically generated" />
+<img src="mepic.jpg" style="width:1.38194in;height:1.63943in" />
 
 Hello! My name is Tyler Winder, and I am pleased to introduce myself as
 the author of this blog. Thank you for visiting!

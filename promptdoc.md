@@ -42,3 +42,5 @@ engineers are helping to make AI more accessible and useful for
 everyone. Whether you're a data scientist, AI developer, or simply an
 end user of AI systems, understanding the role of prompt engineering is
 essential for staying ahead of the curve in this rapidly evolving field.
+
+[Back}(/index.md)

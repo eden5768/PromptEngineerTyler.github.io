@@ -49,3 +49,10 @@ achievements, which you can find here: https://eden57.
 
 Thank you for taking the time to get to know me better. I look forward
 to sharing my insights and experiences with you through this blog.
+
+## Table of contents
+
+* what is prompt engineering
+* AI Art
+* Chat GPT
+* concerns about AI
